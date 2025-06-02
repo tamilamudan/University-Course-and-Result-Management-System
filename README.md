@@ -91,9 +91,6 @@ Facilitates populating `JTable` components directly from JDBC `ResultSet`.
 ### 6. Result View
 ![image](https://github.com/user-attachments/assets/d4290308-d071-44c8-ba2a-b1841fa73de3)
 
-> 📂 Place all image files in the `images/` folder in your project directory.
-
----
 ---
 
 ## 🗃️ Database Schema
